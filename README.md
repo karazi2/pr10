@@ -61,7 +61,9 @@ CREATE TABLE cart (
 ![image](https://github.com/user-attachments/assets/72feef53-930e-4840-99da-33d793093d14)
 
 
-
+# Запрос POST
+![image](https://github.com/user-attachments/assets/6dc3ac5c-8d34-4d75-a8ab-7aa789501133)
+![image](https://github.com/user-attachments/assets/98fbee1d-25cf-47a1-a9a0-57f386161289)
 
 
 
